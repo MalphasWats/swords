@@ -1,3 +1,7 @@
+---
+title: Swords - Quickstart
+---
+
 Adventure
 
 # Adventure
