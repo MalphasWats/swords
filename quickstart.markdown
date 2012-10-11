@@ -1,4 +1,5 @@
 ---
+layout: root
 title: Swords - Quickstart
 ---
 
