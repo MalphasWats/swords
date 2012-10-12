@@ -1,3 +1,9 @@
+---
+layout: page
+title: Swords - Items
+---
+
+
 |  Item                               |       Stat      |  Cost  |
 |:------------------------------------|:---------------:|:------:|
 | Backpack (30lb capacity)            |      &nbsp;     |  20gp  |
