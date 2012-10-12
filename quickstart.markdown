@@ -42,7 +42,7 @@ Your character's strength is the measure of her physical prowess; how hard can s
 Having a high strength gives your character a bonus to both their attack rolls and damage when attacking with melee weapons, likewise, a low score could leave her too weak even to lift her sword!
 
 | attribute score | to hit modifier | damage bonus |
-| --------------- | --------------- | ------------ |
+|:---------------:|:---------------:|:------------:|
 |       3-4       |       -2        |      -1      |
 |       5-6       |       -1        |       0      |
 |       7-8       |        0        |       0      |
