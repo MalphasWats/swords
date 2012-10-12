@@ -21,16 +21,25 @@ body
 
 h1, h2, h3
 {
-	margin:8px 0px 4px 0px;
-	text-transform:uppercase;
+	margin:14px 0px 8px 0px;
 }
 h1 {font-size:1.5em}
-h2 {font-size:1.3em}
+h2 {font-size:1.3em; border-bottom:2px solid black;}
 h3 {font-size:1.1em;}
+h4
+{
+	margin:10px 0px 4px 0px;
+}
 
 p, ul, dl
 {
-	margin:8px;
+	margin:8px 16px;
+}
+
+ul
+{
+	list-style-position: inside;
+	list-style-type: square;	
 }
 
 table p, table ul, table dl
@@ -58,6 +67,23 @@ table p, table ul, table dl
 	
 	background-color:rgba(214, 233, 233, 0.6);
 }
+
+#story table 
+{
+	border-collapse:collapse;
+	line-height:1.4em;
+	margin:1em auto 0.4em auto;
+}
+#story table td, #story table th
+{
+	border:1px solid #7b797a;
+	padding:4px;
+	text-align:center;
+}
+#story table th {background:#7b797a; color:white;}
+
+
+
 
 #sidebar
 {
