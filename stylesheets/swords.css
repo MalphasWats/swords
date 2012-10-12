@@ -82,6 +82,15 @@ table p, table ul, table dl
 }
 #story table th {background:#7b797a; color:white;}
 
+#story table tr
+{
+	background-color:white;
+}
+
+#story table tr:nth-child(2n)
+{
+	background-color:#f8f8f8;
+}
 
 
 
