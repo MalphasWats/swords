@@ -36,7 +36,7 @@ p, ul, dl
 	margin:8px 16px;
 }
 
-ul
+ul, ol
 {
 	list-style-position: inside;
 	list-style-type: square;	
