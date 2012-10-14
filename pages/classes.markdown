@@ -11,7 +11,7 @@ title: Swords - Classes
 |:------------:|---------|
 |      16      | Martial |
 
-A Warrior’s primary attribute is *Strength*. Gain HP equal to your Strength damage bonus.
+A Warrior's primary attribute is *Strength*. Gain HP equal to your Strength damage bonus.
 
 You are awesome at fighting and using muscle and brawn, as a mighty warrior or skilled woodsman or grizzled mercenary. You can use any/all weapons and armor.
 
@@ -83,11 +83,11 @@ Roll on the table below to determine which spells you know.
 
 | Roll |     Spell     | Effect
 |:----:|---------------|--------
-|  1   | Charm Person  | Target only Humanoids, if successful target falls under the caster’s control. Lasts until Dispelled.
+|  1   | Charm Person  | Target only Humanoids, if successful target falls under the caster's control. Lasts until Dispelled.
 |  2   | Detect Magic  | Perceive places, people, things that are under the influence of a magical spell. Lasts 20 minutes.
 |  3   | Hold Portal   | Holds a door closed, can be reversed to break open doors. Lasts 5 minutes.
 |  4   | Light         | Target radiates bright light for 1 hr
-|  5   | Magic Missile | A Magical missile flies where the caster directs. Caster can roll vs creature’s defence (+ 1) for **1d6+1** damage or automatically hit for **1d4+1** damage
+|  5   | Magic Missile | A Magical missile flies where the caster directs. Caster can roll vs creature's defence (+ 1) for **1d6+1** damage or automatically hit for **1d4+1** damage
 |  6   | Protection    | Cast a field of protection around the caster. Creatures take -1 penalty to attacks. Lasts 1 hour.
 |  7   | Shield        | Cast a shield around a target. Target gains 15 defence against melee and 17 against missile attacks. Lasts 20 minutes
 |  8   | Sleep         | Targets fall into enchanted slumber (no save). Affects up to 4 targets. Lasts 1 hour.
@@ -107,8 +107,8 @@ As a Rogue, locks, traps, and scouting are your trade.
 You may wear leather armour and wield most weapons, you deal double damage and 
 gain +4 to attack when attacking from behind.
 
-A Rogue’s primary attribute is Dexterity. You gain a damage bonus equal to your 
-Dexterity’s To Hit modifier.
+A Rogue's primary attribute is Dexterity. You gain a damage bonus equal to your 
+Dexterity's To Hit modifier.
 
 ### Abilities
 
