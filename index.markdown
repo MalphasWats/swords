@@ -16,3 +16,5 @@ title: Swords - Home
 
 - Exploring
 - [Combat](pages/combat.html)
+- [Advancement](pages/advancement.html)
+- [Strongholds](pages/strongholds.html)

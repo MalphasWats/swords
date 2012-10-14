@@ -13,9 +13,12 @@ title: Swords - Classes
 
 A Warrior's primary attribute is *Strength*. Gain HP equal to your Strength damage bonus.
 
-You are awesome at fighting and using muscle and brawn, as a mighty warrior or skilled woodsman or grizzled mercenary. You can use any/all weapons and armor.
+You are awesome at fighting and using muscle and brawn, as a mighty warrior or skilled 
+woodsman or grizzled mercenary. You can use any/all weapons and armor.
 
 You gain a bonus to un-armed combat. Roll **1d6** for damage instead of **1d4**
+
+[Warrior Detail](warrior.html)
 
 ### Abilities
 
@@ -39,11 +42,15 @@ will decide on the cost of the actions you wish to take.
 |:------------:|---------|
 |      14      |  Magic  |
 
-Your faith in a deity or religion is the source of your power and drive. You may only use blunt weapons and cannot carry a shield. Your deity furnishes you with *Prayers*.
+Your faith in a deity or religion is the source of your power and drive. You may only 
+use blunt weapons and cannot carry a shield. Your deity furnishes you with *Prayers*.
 
 Level 1 prayers cost 1 mana to cast.
 
-Roll **1d2** when you begin, you know that many prayers in addition to Cure Light Wounds. Roll on the table below to determine which other prayers you know.
+Roll **1d2** when you begin, you know that many prayers in addition to Cure Light Wounds. 
+Roll on the table below to determine which other prayers you know.
+
+[Cleric Detail](cleric.html)
 
 ### Prayers
 
@@ -79,6 +86,8 @@ Roll *1d6* when you begin, your spellbook contains that many spells.
 
 Roll on the table below to determine which spells you know.
 
+[Mage Detail](mage.html)
+
 ### Spells
 
 | Roll |     Spell     | Effect
@@ -109,6 +118,8 @@ gain +4 to attack when attacking from behind.
 
 A Rogue's primary attribute is Dexterity. You gain a damage bonus equal to your 
 Dexterity's To Hit modifier.
+
+[Rogue Detail](rogue.html)
 
 ### Abilities
 
