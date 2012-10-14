@@ -9,7 +9,7 @@ title: Swords - Creating a Character
 
 ## Attributes
 
-The first step to creating your character is to roll 3d6 for each of the six attribute scores.
+The first step to creating your character is to roll **3d6** for each of the six attribute scores.
 
 Keep in mind that your character will almost certainly have some scores that is lower than average. You do not begin as superior specimens of human perfection; You are flawed like anyone else.
 
@@ -113,3 +113,21 @@ Roll **1d6** to determine your maximum focus pool. You only gain focus points th
 Your defence attribute determines how hard you are to hit. It is primarily determined by the armour you are wearing (see equipment table), along with bonuses from your Dexterity, Class and sometimes Race. 
 
 A Naked character has a defence of 9.
+
+### Gold
+
+When you begin the game, roll **3d6** and multiply the total by 10. 
+
+You have that many gold pieces and may buy equipment from the [equipment table](items.html).
+
+Generally, a character with a strength of 10 can wear armour lighter than plate, carry a weapon and backpack. Carrying more than this takes effort and may affect your performance!
+
+
+## Character Class
+
+Once you have determined your statistics, you may [choose your character class](classes.html)
+
+
+## Character Race
+
+There are many races in the world. Some of them bring bonuses to their abilities. [Choose your character race](races.html)
