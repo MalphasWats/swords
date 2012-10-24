@@ -161,9 +161,9 @@ Each Song you sing costs 1 mana. The power of your Songs remains only as long as
 |  1   | The Brave     | Your target feels a boost of courage, gaining +2 to defence while you sing.
 |  2   | The Beast     | Paranoia plagues your target, the beast is closing. -2 to defence while you sing.
 |  3   | Ho No, Not me | Whilst you sing this song, opponents take a -2 penalty when attacking you.
-|  4   |               | 
-|  5   |               | 
-|  6   |               | 
+|  4   |               | |
+|  5   |               | |
+|  6   |               | |
 
 
 ## Brawler
