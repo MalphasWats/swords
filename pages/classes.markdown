@@ -11,12 +11,10 @@ title: Swords - Classes
 |:------------:|---------|
 |      16      | Martial |
 
-A Warrior's primary attribute is *Strength*. Gain HP equal to your Strength damage bonus.
-
 You are awesome at fighting and using muscle and brawn, as a mighty warrior or skilled 
-woodsman or grizzled mercenary. You can use any/all weapons and armor.
+soldier or grizzled mercenary. You can use any/all weapons and armor.
 
-You gain a bonus to un-armed combat. Roll **1d6** for damage instead of **1d4**
+A Warrior's primary attribute is *Strength*. Gain Defence equal to your Strength Class bonus.
 
 [Warrior Detail](warrior.html)
 
@@ -45,10 +43,14 @@ will decide on the cost of the actions you wish to take.
 Your faith in a deity or religion is the source of your power and drive. You may only 
 use blunt weapons and cannot carry a shield. Your deity furnishes you with *Prayers*.
 
+A Cleric's primary attribute is *Wisdom*. Many of your Prayers gain bonuses equal to your Wisdom Class Bonus.
+
 Level 1 prayers cost 1 mana to cast.
 
 Roll **1d2** when you begin, you know that many prayers in addition to Cure Light Wounds. 
 Roll on the table below to determine which other prayers you know.
+
+Each Level, you gain as many Prayers as your *Wisdom* class bonus dictates.
 
 [Cleric Detail](cleric.html)
 
@@ -74,11 +76,13 @@ Clerics can also wield their holy power to turn the Undead, causing them to flee
 |:------------:|---------|
 |      15      |  Magic  |
 
+A Mage's primary attribute is *Intelligence*. Your Mana Pool is additionally increased by your *Intelligence* class bonus each level.
+
 You are skilled in the arcane and mysterious arts of magic. You have little training in other areas, 
-so you may not use any armor and you can only use daggers, staffs and darts as weapons.
-You begin the game with a spellbook into which you may copy as many spells as you discover, however, 
-you may only use as many as your Intelligence allows. Each day you must memorize the spells you wish 
-to use. These spells may be cast as many times as your Mana Pool allows.
+so you may not use any armor and you can only use daggers, staffs and slings as weapons.
+You begin the game with a spellbook into which you may copy as many spells as you discover.
+
+These spells may be cast as many times as your Mana Pool allows.
 
 Level 1 Spells cost 1 Mana to use.
 
@@ -102,28 +106,26 @@ Roll on the table below to determine which spells you know.
 |  8   | Sleep         | Targets fall into enchanted slumber (no save). Affects up to 4 targets. Lasts 1 hour.
 
 
-
-## Rogue
+## Ranger/Rogue
 
 | Saving Throw |  Power  |
 |:------------:|---------|
 |      14      | Martial |
 
-The Rogue is a figure in the shadows, an expert in stealth and delicate tasks. 
+A Ranger/Rogue's primary attribute is *Dexterity*. You gain a bonus to your damage equal to your *Dexterity* Class Bonus.
 
-As a Rogue, locks, traps, and scouting are your trade.
+A Ranger is as silent as forest cat, expert at hunting and wayfinding; most comfortable with a forest canopy overhead and moss underfoot.
 
-You may wear leather armour and wield most weapons, you deal double damage and 
-gain +4 to attack when attacking from behind.
+The Rogue is a figure in the shadows, an expert in stealth and delicate tasks, at home in Cities and large towns
 
-A Rogue's primary attribute is Dexterity. You gain a damage bonus equal to your 
-Dexterity's To Hit modifier.
+You may wear leather armour and wield single-handed melee weapons and any ranged weapon.
+You deal double damage and gain +4 to attack when attacking from behind.
 
-[Rogue Detail](rogue.html)
+[Ranger/Rogue Detail](rogue.html)
 
 ### Abilities
 
-As a Rogue, your abilities take the form of tricks and misdirections. During the course 
+As a Ranger/Rogue, your abilities take the form of tricks and misdirections. During the course 
 of combat, you gain focus points, representative of your cunning and speed. You may spend 
 these focus points on your turn (although the effect does not have to be immediate) to 
 augment your attacks.
@@ -136,6 +138,43 @@ these, but your Game Master will decide on the cost of the actions you wish to t
 |     1      | Increase your damage by 1         |
 |     2      | Stun your opponent for 30 seconds |
 |     5      | Vanish from sight                 |
+
+
+## Bard
+
+| Saving Throw |  Power  |
+|:------------:|---------|
+|      14      |  Magic  |
+
+A Bard roams the world taking part in grand deeds, gathering inspiration for great songs, plays and skits. A Bard knows that a well crafted song can inspire courage in the most cowardly, or strike fear in the heart of a lion.
+
+A Bard's primary attribute is *Charisma*. Your powers take the form of Songs. Your *Charisma* attribute determines how many creatures may be affected by your songs at any given time.
+
+As a Novice Bard, you know a few songs. Roll **1d4** when you begin to determine which songs you know. As you gain experience, you may pen new songs of great power.
+
+Each Song you sing costs 1 mana. The power of your Songs remains only as long as you sing, whenever you are hit in combat, you must roll a saving throw for each Song to determine if your concentration is broken.
+
+### Songs
+
+| Roll |     Spell     | Effect
+|:----:|---------------|--------
+|  1   | The Brave     | Your target feels a boost of courage, gaining +2 to defence while you sing.
+|  2   | The Beast     | Paranoia plagues your target, the beast is closing. -2 to defence while you sing.
+|  3   | Ho No, Not me | Whilst you sing this song, opponents take a -2 penalty when attacking you.
+|  4   |               | 
+|  5   |               | 
+|  6   |               | 
+
+
+## Brawler
+
+| Saving Throw |  Power  |
+|:------------:|---------|
+|      16      | Martial |
+
+A Brawler's primary attribute is *Constitution*. You gain a bonus to your hit points equal to your *Constitution* Class Bonus for each **Hit Die** you gain.
+
+You may wear leather armour and wield only special fist or improvised weapons. You gain +1 to your damage rolls (**1d4**) when you are unarmed and +1 to your accuracy with improvised weapons. Fist weapons gain both bonuses.
 
 
 ## Character Race
